@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://komokaplumbing.ca/sitemap-index.xml
